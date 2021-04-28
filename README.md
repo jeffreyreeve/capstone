@@ -3,16 +3,16 @@
 An Examination of the Cost of COVID-19 in the United States
 
 # SUMMARY
-For my capstone project in the NSS Data Analytics Bootcamp, I decided to analyze the econonomic and financial costs of COVID-19 in the US. The idea was to create a piece of data journalism. Through a series of 8 data visualizations, I created the pages of the data story. It even has a front and back cover along with an introduction and conclusion. 
+For my capstone project, I decided to analyze the econonomic and financial costs of COVID-19 in the US. The idea was to create a piece of data journalism. Through a series of 8 data visualizations, I created the pages of my data story. It even has a front and back cover along with an introduction and conclusion. 
 
-In my data journalism piece, I started out broadly, showing the spread of COVID-19 and the total number of deaths in the United States. I examined traditional economic measures like unemployment and GDP followed by the impact on schools and learning. Then I looked at financial costs, outlining actual dollars spent for hospitalizations, by government, and then compared these costs historically.
+In my data journalism piece, I started out broadly, showing the total number of deaths in the United States. I examined traditional economic measures like unemployment and GDP followed by the impact on schools and learning. Then I looked at financial costs, outlining actual dollars spent for hospitalizations, by government, and then compared these costs historically.
 
 In terms of insights from my analysis, it's safe to say that COVID-19 has tolled a higher cost than anything the United States has ever dealt with in its history:
 -   The Economic Costs of COVID-19 are: 6.5 million jobs, $500.6 billion in lost 2020 GDP, 3,000,000 AWOL students with $72,000 in diminished lifetime earnings, and an estimated $16 trillion in future lost GDP and Health. The economic cost of lives lost so far is $5.52 trillion. 
 -   The Financial Costs of COVID-19 are: $103 billion in hospital expenses, $700 billion in Adminstration spending, $2.9 trillion in Federal Reserve action, and $5.3 trillion in Legislative spending. Federal COVID spending amounts to more than $18,000/person in the United States. 
 
 # Motivation
-I chose this topic because COVID has cost America more than any other event or crisis in history. I believe telling a story with data visualizations is more powerful and impactful than any other format. I have a major interest in Data Journalism as well.
+I chose this topic because COVID has cost America more than any other event or crisis in history. I believe telling a story with data visualizations is more powerful and impactful than any other format. I also have a major interest in Data Journalism.
 
 # Data Question
 What is the Economic and Financial Cost of COVID-19 in the United States?
