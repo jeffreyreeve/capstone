@@ -10,6 +10,7 @@ I started out broadly, showing the total number of deaths in the United States. 
 In terms of insights from my analysis, it's safe to say that COVID-19 has tolled a higher cost than anything the United States has ever dealt with in its history:
 -   The Economic Costs of COVID-19 are: 6.5 million jobs, $500.6 billion in lost 2020 GDP, 3,000,000 AWOL students with $72,000 in diminished lifetime earnings, and an estimated $16 trillion in future lost GDP and Health. The economic cost of lives lost so far is $5.52 trillion. 
 -   The Financial Costs of COVID-19 are: $103 billion in hospital expenses, $700 billion in Adminstration spending, $2.9 trillion in Federal Reserve action, and $5.3 trillion in Legislative spending. Federal COVID spending amounts to more than $18,000/person in the United States. 
+-   The US has never experienced anything that tolled such a high cost in economic or financial terms over such a short period of time in its history.
 
 # Motivation
 I chose this topic because COVID has cost America more than any other event or crisis in history. I believe telling a story with data visualizations is more powerful and impactful than any other format. I also have a major interest in Data Journalism and this project is designed to be a visual data story.
