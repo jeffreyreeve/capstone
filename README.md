@@ -12,7 +12,7 @@ In terms of insights from my analysis, it's safe to say that COVID-19 has tolled
 -   The Financial Costs of COVID-19 are: $103 billion in hospital expenses, $700 billion in Adminstration spending, $2.9 trillion in Federal Reserve action, and $5.3 trillion in Legislative spending. Federal COVID spending amounts to more than $18,000/person in the United States. 
 
 # Motivation
-I chose this topic because COVID has cost America more than any other event or crisis in history. I believe telling a story with data visualizations is more powerful and impactful than any other format. I also have a major interest in Data Journalism.
+I chose this topic because COVID has cost America more than any other event or crisis in history. I believe telling a story with data visualizations is more powerful and impactful than any other format. I also have a major interest in Data Journalism and this project is designed to be a visual data story.
 
 # Data Question
 What is the Economic and Financial Cost of COVID-19 in the United States?
