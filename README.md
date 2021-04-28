@@ -5,7 +5,7 @@ An Examination of the Cost of COVID-19 in the United States
 # SUMMARY
 For my capstone project, I decided to analyze the econonomic and financial costs of COVID-19 in the US. The idea was to create a piece of data journalism. Through a series of 8 data visualizations, I created the pages of my data story. It even has a front and back cover along with an introduction and conclusion. 
 
-I started out broadly, showing the total number of deaths in the United States. I examined traditional economic measures like unemployment and GDP followed by the impact on schools and learning. Then I looked at financial costs, outlining actual dollars spent for hospitalizations, by government, and then compared these costs historically.
+I started out broadly, showing the total number of deaths in the United States. I examined traditional economic measures like unemployment & GDP followed by the impact on schools & learning. Then I looked at economic opportunity costs, financial costs, government spending, and compared everything historically.
 
 In terms of insights from my analysis, it's safe to say that COVID-19 has tolled a higher cost than anything the United States has ever dealt with in its history:
 -   The Economic Costs of COVID-19 are: 6.5 million jobs, $500.6 billion in lost 2020 GDP, 3,000,000 AWOL students with $72,000 in diminished lifetime earnings, and an estimated $16 trillion in future lost GDP and Health. The economic cost of lives lost so far is $5.52 trillion. 
