@@ -1,4 +1,4 @@
-# capstone
+# Capstone Project for Nashville Sofware School Data Analytics Bootcamp
 
 An Examination of the Cost of COVID-19 in the United States
 
