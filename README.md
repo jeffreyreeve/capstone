@@ -33,6 +33,7 @@ https://jamanetwork.com/journals/jama/fullarticle/2771764
 https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html
 https://www.healthcarefinancenews.com/news/average-cost-hospital-care-covid-19-ranges-51000-78000-based-age
 https://www.pgpf.org/blog/2021/03/heres-everything-congress-has-done-to-respond-to-the-coronavirus-so-far
+https://www.chicagotribune.com/opinion/commentary/ct-opinion-covid-relief-package-cost-obrien-20210312-3bi5g7uxgfe6ngbfutj7luudey-story.html
 https://www.stlouisfed.org/publications/regional-economist/first_quarter_2017/the-recovery-act-of-2009-vs-fdrs-new-deal-which-was-bigger
 https://www.stlouisfed.org/publications/regional-economist/first_quarter_2017/the-recovery-act-of-2009-vs-fdrs-new-deal-which-was-bigger
 https://fas.org/sgp/crs/natsec/RS22926.pdf
