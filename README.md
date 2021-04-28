@@ -1,4 +1,4 @@
-# Capstone Project for Nashville Software School Data Analytics Bootcamp
+# Capstone Project for Nashville Software School Full-Time Data Analytics Bootcamp
 
 An Examination of the Cost of COVID-19 in the United States
 
