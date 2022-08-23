@@ -22,7 +22,7 @@ What is the Economic and Financial Cost of COVID-19 in the United States?
 I produced this project in Tableau. I did some data cleaning in Excel and Python.
 
 # Link
-https://public.tableau.com/shared/38CSTRW95?:display_count=y&:origin=viz_share_link
+https://public.tableau.com/app/profile/jeffrey.reeve2951/viz/AnExaminationoftheCostofCOVID-19intheUnitedStates/HowMuchhasCOVID-19CosttheUSEconomy?publish=yes
 
 # Sources
 https://github.com/nytimes/covid-19-data
